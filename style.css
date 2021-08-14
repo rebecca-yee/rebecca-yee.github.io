@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins";
+  font-weight: normal;
+  background-color: rgb(208, 245, 245);
+  color: black;
+  margin: 40px 20%;
+}
+
+nav,
+h2 {
+  font-family: "Balsamiq Sans";
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+p {
+  line-height: 30px;
+}
+
+.project {
+  margin: 20px auto;
+}
+
+.nested {
+  margin: 10px auto;
+}
