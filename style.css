@@ -80,8 +80,10 @@ a:hover {
 }
 
 img {
-  width: 40%;
-  float: right;
+  height: 400px;
+  margin-left: 100px;
+  display: inline-block;
+  flex-shrink: 0;
 }
 
 p {
