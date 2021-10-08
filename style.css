@@ -81,7 +81,7 @@ a:hover {
 }
 
 #profile {
-  height: 400px;
+  height: 350px;
   margin-left: 100px;
   display: inline-block;
   flex-shrink: 0;
